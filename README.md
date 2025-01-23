@@ -50,7 +50,7 @@ disabled as it does not apply.
 ### Start VM
 
 ```sh
-cd lustre-dev-provision
+cd lustre-devel-vagrant
 export VAGRANT_DEFAULT_PROVIDER=libvirt
 vagrant up
 ```
